@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <nav className="Manubar">
-          <div className="Main-Manu">
+          <div className="MainManu">
             <ul>
               <li></li>
               <li></li>
