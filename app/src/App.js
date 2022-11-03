@@ -12,7 +12,7 @@ function App() {
               <li>About</li>
               <li></li>
               <li></li>
-              <li></li>
+              <li>project</li>
               <li></li>
               <li>Contact Us</li>
             </ul>
