@@ -11,7 +11,7 @@ function App() {
             <ul>
               <li>About</li>
               <li>Projects</li>
-              <li>Latest Developments</li>
+              <li>Latest Development</li>
               <li>Contact Us</li>
               {/* <li></li>
               <li></li> */}
