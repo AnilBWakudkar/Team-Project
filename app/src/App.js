@@ -10,11 +10,13 @@ function App() {
           <div className="MainManu">
             <ul>
               <li>About</li>
+              <li>Home</li>
+              <li>Project</li>
               <li></li>
-              <li></li>
-              <li>project</li>
               <li></li>
               <li>Contact Us</li>
+              {/* <li></li>
+              <li></li> */}
             </ul>
           </div>
         </nav>
