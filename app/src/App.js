@@ -9,12 +9,12 @@ function App() {
         <nav className="Manubar">
           <div className="MainManu">
             <ul>
+              <li>About</li>
               <li></li>
               <li></li>
               <li></li>
               <li></li>
-              <li></li>
-              <li></li>
+              <li>Contact Us</li>
             </ul>
           </div>
         </nav>
